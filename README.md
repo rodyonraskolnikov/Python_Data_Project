@@ -110,6 +110,7 @@ plt.show()
 Here’s an overview of the highest-paying and most in-demand skills for Data Analysts in the United States:
 
 ![The Highest Paid & Most In-Demand Skills for Data Analysts in the US](3_Project/images/Highest_Paid_and_Most_In_Demand_Skills_for_Data_Analysts_in_the_US.png)
+
 *Two distinct bar charts illustrating the highest-paying skills and the most in-demand skills for Data Analysts in the United States.*
 
 #### Insights:
