@@ -186,7 +186,7 @@ plt.show()
 
 - Analyst tools (green), like Tableau and Power BI, are widely mentioned in job postings and offer competitive salaries. These tools are essential for data roles, providing strong earning potential and versatility across various data tasks.
 
----
+
 
 # What I Learned
 
@@ -196,7 +196,7 @@ This project allowed me to deepen my understanding of the data analyst job marke
 - **Importance of Data Cleaning**: I learned that thorough data cleaning and preparation are vital to ensure accurate and reliable insights during analysis.  
 - **Strategic Skill Assessment**: This project underscored the importance of aligning skills with market demand. Understanding the connection between skill demand, salary, and job availability is critical for informed career planning in tech.
 
----
+
 
 # Insights
 
@@ -206,7 +206,7 @@ This project offered several important insights into the data analyst job market
 - **Evolving Market Trends**: Skill demand in the data analytics field evolves, emphasizing the need to stay updated with industry trends for sustained career growth.  
 - **Economic Value of Skill Development**: Identifying skills that are both in-demand and well-compensated can help data analysts prioritize their learning efforts to maximize career and financial returns.
 
----
+
 
 # Challenges I Faced  
 
